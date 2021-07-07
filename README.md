@@ -20,8 +20,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```cd kodluyouzilkrepo 
-code  .```
+``` 
+cd kodluyouzilkrepo 
+code  .
+```
 
 ## Contributing
 
