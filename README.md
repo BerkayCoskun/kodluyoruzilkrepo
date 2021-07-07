@@ -4,7 +4,9 @@ Bu repo [Kodluyoruz](https://github.com/BerkayCoskun/kodluyoruzilkrepo) Front-En
 
 [örnek]()
 
-##Installation
+## Installation
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Öncelikle projeyi clonelayın. (Buraya reponuzdan alığınız link gelecek)
 
